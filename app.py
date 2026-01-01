@@ -2,6 +2,8 @@
 Aford.ai - Today's Working Prototype
 """
 import streamlit as st
+import pandas as pd
+import numpy as np
 from financial_calculator import *
 from conversation_engine import *
 from insights_generator import *
